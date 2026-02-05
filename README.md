@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# RH AI
 
-# Run and deploy your AI Studio app
+Aplicativo para análise e interpretação de currículos usando Inteligência Artificial.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1nzZgY7s2z16swrv2IaiMtuMWWls7SNuz
+ 🚀 Funcionalidades
 
-## Run Locally
+- Upload de currículos em PDF
+- Análise automática de perfil profissional
+- Comparação entre currículo e descrição da vaga
+- Conversa com IA sobre o candidato
+- Histórico de currículos e chats
 
-**Prerequisites:**  Node.js
+---
 
+🧠 Tecnologias
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- TypeScript
+- React
+- Google Gemini API
+
+---
+
+🔐 Segurança
+
+- Nenhuma API Key está exposta no código
+- Chaves sensíveis via variáveis de ambiente (`.env`)
+- Arquivos confidenciais não são versionados
+- Uso da API sujeito a limites de cota do provedor
+
+---
+
+ 📬 Contato
+
+📧 **Email:** sousaalisson915@gmail.com
+
+---
+ ⚠️ Direitos Autorais
+
+© 2026 Alisson Ramos. Todos os direitos reservados.
+
+Este código-fonte **não pode ser copiado, redistribuído, vendido ou utilizado comercialmente** sem autorização expressa do autor.
+
+Projeto disponibilizado apenas para fins de demonstração e portfólio.
