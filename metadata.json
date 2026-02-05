@@ -1,0 +1,7 @@
+{
+  "name": "RH AI - Analisador de Currículos Sênior",
+  "description": "Plataforma inteligente para triagem, análise e comparação de candidatos baseada em IA para recrutamento profissional.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
